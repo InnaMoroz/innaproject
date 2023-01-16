@@ -1,0 +1,41 @@
+
+/* var 1 - element name */
+div{
+    width: 100px;
+    height: 100px;
+
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+/*var 2 - class */
+.myBox{
+    width: 100px;
+    height: 100px;
+
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+
+    font-size: 10px;
+}
+.myFont{
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+/*var 3 - id (svjazaka css and java script)*/
+
+#myBox2{
+    width: 100px;
+    height: 100px;
+
+    border-width: 1px;
+    border-color: rgba(201, 41, 41, 0.5);
+    border-style: solid;
+
+    font-size: 10px;
+    color: aquamarine;
+
+}
